@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/idbouche/node_together#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "motivations": "^1.0.10",
+    "pick-one": "^1.0.0"
   }
 }
