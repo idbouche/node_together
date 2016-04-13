@@ -1,0 +1,22 @@
+{
+  "name": "node_together",
+  "version": "1.0.0",
+  "description": "my test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idbouche/node_together.git"
+  },
+  "keywords": [
+    "latifa2010"
+  ],
+  "author": "latifa2010",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idbouche/node_together/issues"
+  },
+  "homepage": "https://github.com/idbouche/node_together#readme"
+}
